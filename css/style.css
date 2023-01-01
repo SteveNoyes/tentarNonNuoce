@@ -2,6 +2,23 @@
 
 html, body{
   font-family: monospace;
+  font-size: 22px;
   color: rgb(0, 255, 0);
   background: rgb(0, 0, 0);
+  padding: 0px;
+  margin: 0px;
+}
+
+body *{
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.container{
+  max-width: 350px;
+  margin: 30px auto;
+  background: rgb(51, 51, 51);
+  border-radius: 3px;
+  box-shadow: 1px 5px 18px rgba(255, 255, 51, 0.3);
+  padding-top: 20px;
 }
