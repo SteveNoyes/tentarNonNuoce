@@ -22,3 +22,25 @@ body *{
   box-shadow: 1px 5px 18px rgba(255, 255, 51, 0.3);
   padding-top: 20px;
 }
+
+.container .timerContainer{ 
+  display: flex;
+  background: #555;
+}
+.container .timerContainer .timer{
+  font-size: 60px;
+  margin: auto;
+}
+.container .focus input{
+  height: 40px;
+  padding: 10px;
+  width: 100%;
+  background: #444;
+  border: none;
+  color: white;
+  font-size: 16px;
+  outline: none;
+}
+.container .btnGroup{
+  display: flex;
+}
