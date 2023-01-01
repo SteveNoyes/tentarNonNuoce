@@ -49,7 +49,7 @@
 
 ### Useful resources
 
-- [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+- [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
 
 - [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
 
