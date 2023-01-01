@@ -51,7 +51,7 @@
 
 - [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
 
-- [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+- [Vintage Terminal Colors](https://www.color-hex.com/color-palette/50494) - Lorem ipsum dolor sit amet consectetur, adipisicing elit.
 
 - [Title](https://www.site.com) - Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
 
