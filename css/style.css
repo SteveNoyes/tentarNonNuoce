@@ -14,6 +14,7 @@ body *{
   text-align: center;
 }
 
+/* Main Wrapper */
 .container{
   max-width: 350px;
   margin: 30px auto;
@@ -27,10 +28,12 @@ body *{
   display: flex;
   background: #555;
 }
+
 .container .timerContainer .timer{
   font-size: 60px;
   margin: auto;
 }
+
 .container .focus input{
   height: 40px;
   padding: 10px;
@@ -41,6 +44,27 @@ body *{
   font-size: 16px;
   outline: none;
 }
+
 .container .btnGroup{
   display: flex;
+}
+
+.container .btnGroup .btn{
+  flex-grow: 1;
+  height: 40px;
+  display: flex;
+  border-radius: 0px 0px 3px 3px;
+  border: 1px solid #444;
+}
+
+/* Button Hover State */
+
+.container .btnGroup .btn:hover{
+  cursor: pointer;
+  background: #555;
+  border: 1px solid white;
+}
+
+.container .btnGroup .btn label{
+  margin: auto;
 }
